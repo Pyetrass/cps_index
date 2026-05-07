@@ -26,7 +26,7 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#f4f4f4",
+    backgroundColor: "#ffffff",
     alignItems: "center",
     paddingTop: 70,
   },
@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
 
   box: {
     width: "80%",
-    backgroundColor: "#fff",
+    backgroundColor: "#8b13c2",
     borderRadius: 20,
     padding: 30,
     alignItems: "center",
